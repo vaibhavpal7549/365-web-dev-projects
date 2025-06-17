@@ -33,4 +33,12 @@ I'm building **1 web project per day** for a full year — from beginner to adva
 
 ## 📂 Folder Structure
 
-
+365-web-dev-projects/
+├── Day01_HelloWorld/
+│ └── index.html
+├── Day02_Portfolio/
+│ ├── index.html
+│ └── style.css
+├── Day03_ContactForm/
+│ └── ... (upcoming)
+├── README.md
